@@ -3,23 +3,35 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "dtg": "2019-05-21'T'13:00:00Z",
+        "title": "Aankomst in Dallas"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.03125,
-          33.43144133557529
+          -97.04045534133911,
+          32.8692248149848
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "tornado",
+        "dtg": "2019-05-22'T'19:12:00Z",
+        "title": "Tornado!"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.4912109375,
-          42.633958722673164
+          -95.0537109375,
+          35.96022296929667
         ]
       }
     }
