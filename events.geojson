@@ -6,9 +6,10 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "airport",
+        "marker-symbol": "circle",
         "dtg": "2019-05-21'T'13:00:00Z",
-        "title": "Aankomst in Dallas"
+        "title": "Aankomst in Dallas",
+        "eventType": "information"
       },
       "geometry": {
         "type": "Point",
@@ -23,9 +24,10 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "tornado",
+        "marker-symbol": "circle",
         "dtg": "2019-05-22'T'19:12:00Z",
-        "title": "Tornado!"
+        "title": "Tornado!",
+        "eventType": "tornado"
       },
       "geometry": {
         "type": "Point",
