@@ -36,6 +36,24 @@
           35.96022296929667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-23'T'16:12:00Z",
+        "title": "Lekker wandelen...",
+        "eventType": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.41357421875,
+          38.993572058209466
+        ]
+      }
     }
   ]
 }
