@@ -72,6 +72,24 @@
           41.73852846935917
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-25'T'23:12:00Z\"",
+        "title": "Zzzzzzz in the MoA!",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24222207069397,
+          44.854849662295116
+        ]
+      }
     }
   ]
 }
