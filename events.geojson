@@ -54,6 +54,24 @@
           38.993572058209466
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-24'T'19:32:00Z\"",
+        "title": "Superrrrrcel",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.86572265625,
+          41.73852846935917
+        ]
+      }
     }
   ]
 }
