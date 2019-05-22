@@ -18,6 +18,24 @@
           32.8692248149848
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-21'T'23:00:00Z",
+        "title": "Dag 1: Days Inn, Norman",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.48160362243652,
+          35.219059051567136
+        ]
+      }
     }
   ]
 }
