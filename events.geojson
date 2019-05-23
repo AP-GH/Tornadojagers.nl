@@ -108,6 +108,24 @@
           36.12338615240604
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-23'T'03:00:00Z",
+        "title": "Dag 2: Days Inn, OKC",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.56395816802979,
+          35.511941536597995
+        ]
+      }
     }
   ]
 }
