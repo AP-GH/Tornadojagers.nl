@@ -126,6 +126,24 @@
           35.511941536597995
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-23'T'22:00:00Z",
+        "title": "Tornado Warned cell intercept",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.29119873046875,
+          35.632186262602744
+        ]
+      }
     }
   ]
 }
