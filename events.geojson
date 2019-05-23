@@ -36,6 +36,78 @@
           35.219059051567136
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-22'T'20:00:00Z",
+        "title": "Tornado net ten noorden",
+        "eventType": "tornado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3804817199707,
+          35.425007801971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-22'T'20:30:00Z",
+        "title": "Meerde tornado's",
+        "eventType": "tornado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2804817199707,
+          35.436007801971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-22'T'21:00:00Z",
+        "title": "Tornado van 2de supercell",
+        "eventType": "tornado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.95991134643555,
+          35.589620776545964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-23'T'01:00:00Z",
+        "title": "Tornado warned supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.72619438171387,
+          36.12338615240604
+        ]
+      }
     }
   ]
 }
