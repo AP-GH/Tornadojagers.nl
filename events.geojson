@@ -144,6 +144,24 @@
           35.632186262602744
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-23'T'23:00:00Z",
+        "title": "Dag 3: Super 8, Amarillo",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8043777346611,
+          35.19433153687114
+        ]
+      }
     }
   ]
 }
