@@ -162,6 +162,42 @@
           35.19433153687114
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-24'T'19:00:00Z",
+        "title": "Severe Storm",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.61426544189453,
+          33.59488908418128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-24'T'20:00:00Z",
+        "title": "Tornado Warned cell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.86685180664062,
+          33.907465427495765
+        ]
+      }
     }
   ]
 }
