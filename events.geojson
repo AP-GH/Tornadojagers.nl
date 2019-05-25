@@ -216,6 +216,24 @@
           34.159010564494324
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-21'T'17:00:00Z",
+        "title": "Waiting to storm initiation",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4310302734375,
+          35.24225438307026
+        ]
+      }
     }
   ]
 }
