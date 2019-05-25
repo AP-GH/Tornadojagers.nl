@@ -198,6 +198,24 @@
           33.907465427495765
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-24'T'23:00:00Z",
+        "title": "Dag 4: Super 8, Vernon TX",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.28529798984526,
+          34.159010564494324
+        ]
+      }
     }
   ]
 }
