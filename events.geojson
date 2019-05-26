@@ -234,6 +234,24 @@
           35.24225438307026
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-25'T'23:50:00Z",
+        "title": "Dag 5: Days Inn, Alva Oklahoma",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.64014625549316,
+          36.7985294244704
+        ]
+      }
     }
   ]
 }
