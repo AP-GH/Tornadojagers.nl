@@ -252,6 +252,42 @@
           36.7985294244704
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-26'T'20:00:00Z",
+        "title": "Tornado warned supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.71942138671875,
+          38.34057907754285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-26'T'23:50:00Z",
+        "title": "Dag 6: Baymont, Limon Colorado",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.71117353439331,
+          39.26983947204798
+        ]
+      }
     }
   ]
 }
