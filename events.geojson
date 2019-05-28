@@ -288,6 +288,78 @@
           39.26983947204798
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-27'T'13:00:00Z",
+        "title": "Supercell 1",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.20738220214844,
+          40.01552023717577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-27'T'14:00:00Z",
+        "title": "Brief tornado",
+        "eventType": "tornado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51387023925781,
+          40.309116232201816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-27'T'16:00:00Z",
+        "title": "Brief tornado",
+        "eventType": "tornado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.62765502929688,
+          40.71707851579789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-27'T'23:50:00Z",
+        "title": "Dag 7: Economy Inn, McCook NE",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.61214923858643,
+          40.19862567892835
+        ]
+      }
     }
   ]
 }
