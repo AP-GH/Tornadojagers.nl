@@ -360,6 +360,42 @@
           40.19862567892835
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-28'T'13:00:00Z",
+        "title": "Tornado Warned Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7460479736328,
+          35.65060102359122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-27'T'23:50:00Z",
+        "title": "Dag 8: Days Inn, Tulsa OK",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9542465209961,
+          36.03484562410826
+        ]
+      }
     }
   ]
 }
