@@ -396,6 +396,24 @@
           36.03484562410826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-29'T'20:00:00Z",
+        "title": "Tanning @ 32C",
+        "eventType": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.57696151733398,
+          31.782319922415557
+        ]
+      }
     }
   ]
 }
