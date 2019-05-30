@@ -439,6 +439,24 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
+        "dtg": "2019-05-29'T'22:15:00Z",
+        "title": "Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.24229431152344,
+          32.40982048303656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "dtg": "2019-05-29'T'23:00:00Z",
         "title": "2x @ The Forge",
         "eventType": "cold-air"
