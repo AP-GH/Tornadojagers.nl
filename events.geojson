@@ -414,6 +414,60 @@
           31.782319922415557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-29'T'22:00:00Z",
+        "title": "Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.12944030761719,
+          32.01564498933659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-29'T'23:00:00Z",
+        "title": "2x @ The Forge",
+        "eventType": "cold-air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.70484668016434,
+          32.444649558971115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-05-27'T'23:50:00Z",
+        "title": "Dag 9: Days Inn, Fort Worth TX",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.45272427797318,
+          32.68662216540498
+        ]
+      }
     }
   ]
 }
