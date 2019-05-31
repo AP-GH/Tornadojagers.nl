@@ -475,7 +475,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "dtg": "2019-05-27'T'23:50:00Z",
+        "dtg": "2019-05-29'T'23:50:00Z",
         "title": "Dag 9: Days Inn, Fort Worth TX",
         "eventType": "overnight-stay"
       },
@@ -492,7 +492,10 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "dtg": "2019-05-30'T'20:00:00Z",
+        "title": "Fog, the most exciting event of the day",
+        "eventType": "information"
       },
       "geometry": {
         "type": "Point",
@@ -507,7 +510,10 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "circle"
+        "marker-symbol": "circle",
+        "dtg": "2019-05-30'T'23:50:00Z",
+        "title": "Dag 10: Days Inn, Van Horn TX",
+        "eventType": "overnight-stay"
       },
       "geometry": {
         "type": "Point",
