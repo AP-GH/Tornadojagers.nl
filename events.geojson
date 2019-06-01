@@ -576,6 +576,24 @@
           30.897976123229927
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-01'T'13:00:00Z",
+        "title": "Sand dunes hike & Snake chase & Sand boarding",
+        "eventType": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8161096572876,
+          31.641033037963997
+        ]
+      }
     }
   ]
 }
