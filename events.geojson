@@ -594,6 +594,60 @@
           31.641033037963997
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-01'T'15:00:00Z",
+        "title": "Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3895149230957,
+          32.509472211412145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-01'T'16:00:00Z",
+        "title": "1+ inch hail",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.21184539794922,
+          32.72750869140233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-01'T'23:30:00Z",
+        "title": "Dag 12: Days Inn - Santa Rosa, NM",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.67043876647949,
+          34.94541148024499
+        ]
+      }
     }
   ]
 }
