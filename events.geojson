@@ -648,6 +648,60 @@
           34.94541148024499
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-02'T'13:00:00Z",
+        "title": "Michiel ophalen",
+        "eventType": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.50615882873535,
+          37.168182440625664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-02'T'14:00:00Z",
+        "title": "Hoggs BBQ",
+        "eventType": "cold-air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.01175808906555,
+          35.86381316558639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-02'T'20:30:00Z",
+        "title": "Dag 13: Red Roof Inn - Dumas, TX",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.97258710861206,
+          35.84850888336857
+        ]
+      }
     }
   ]
 }
