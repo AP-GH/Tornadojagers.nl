@@ -702,6 +702,24 @@
           35.84850888336857
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-03'T'16:30:00Z",
+        "title": "Wandeling op Capulin Volcano",
+        "eventType": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9702320098877,
+          36.78234211862812
+        ]
+      }
     }
   ]
 }
