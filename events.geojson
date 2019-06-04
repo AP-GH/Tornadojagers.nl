@@ -774,6 +774,60 @@
           37.033571582488904
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-04'T'18:30:00Z",
+        "title": "Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.11004745960234,
+          32.88027645217965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-04'T'20:30:00Z",
+        "title": "LP Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.00690579414368,
+          32.868630068987805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-04'T'22:30:00Z",
+        "title": "Dag 15: Southern Inn & Suites - Lamesa, TX",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9460117816925,
+          32.75878158454897
+        ]
+      }
     }
   ]
 }
