@@ -720,6 +720,60 @@
           36.78234211862812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-03'T'18:30:00Z",
+        "title": "Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.44819641113281,
+          37.37397697546802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-03'T'20:00:00Z",
+        "title": "Tornado warned Supercell",
+        "eventType": "severe-weather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.76223754882812,
+          37.54566616715801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "dtg": "2019-06-03'T'20:30:00Z",
+        "title": "Dag 14: Home Town Inn - Liberal, KS",
+        "eventType": "overnight-stay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.90915560722351,
+          37.033571582488904
+        ]
+      }
     }
   ]
 }
